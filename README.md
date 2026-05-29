@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed Chtara — AI/ML + Embedded Systems Portfolio
 
 > 🎯 Available for remote freelance projects (starting Q3 2026)  
-> 📍 Sfax, Tunisia | 🌍 Open to worldwide collaboration
+> 📍 Tunisia | 🌍 Open to worldwide collaboration
 
 ## 🚀 Quick Profile
 - **Skills**: Python, TensorFlow, Computer Vision, STM32, ROS, IoT, SQL
