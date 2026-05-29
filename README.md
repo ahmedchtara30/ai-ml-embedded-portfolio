@@ -37,7 +37,6 @@
 
 ## 📬 Contact
 - **Email**: chtara45@gmail.com  
-- **LinkedIn**: [linkedin.com/in/ahmedchtara](https://linkedin.com/in/ahmedchtara) *(à mettre à jour)*  
 - **Upwork**: *Profile in progress*  
 
 > 💡 **Need a fast prototype?** Message me with your scope. I deliver clean, documented code in 48h.
