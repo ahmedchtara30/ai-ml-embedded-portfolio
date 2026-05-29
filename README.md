@@ -36,7 +36,7 @@
 ✅ Technical documentation: French/English, AI/IoT/aeronautical domains
 
 ## 📬 Contact
-- **Email**: chtara45@gmail.com  
+- **Email**: chtaraahmed30@gmail.com  
 - **Upwork**: *Profile in progress*  
 
 > 💡 **Need a fast prototype?** Message me with your scope. I deliver clean, documented code in 48h.
