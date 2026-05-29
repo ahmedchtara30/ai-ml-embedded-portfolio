@@ -15,13 +15,13 @@
 - **Goal**: Classify recyclable materials from photos using Computer Vision
 - **Tech**: Python, TensorFlow/Keras, OpenCV, SQL
 - **Status**: CS50 AI Project (Harvard) — Prototype ready
-- **Repo**: `scan-refine-ai-classifier` *(coming soon)*
+- **Repo**: `scan-refine-ai-classifier` 
 
 ### 🤖 Outdoor SLAM — UGV Autonomous Navigation
 - **Goal**: Enable GPS-denied navigation for P-Guard robot
 - **Tech**: ROS, Fast-LIO2, LIO-SAM, LiDAR/IMU fusion
 - **Status**: Enova Robotics Training — Demo available
-- **Repo**: `ros-slam-ugv-navigation` *(coming soon)*
+- **Repo**: `ros-slam-ugv-navigation` 
 
 ### 🔌 Embedded AI Prototype — Edge ML on STM32
 - **Goal**: Deploy lightweight ML models on microcontrollers
